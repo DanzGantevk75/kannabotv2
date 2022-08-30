@@ -61,8 +61,8 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6288270863279'
 global.nomorown = '6288270863279'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
+global.namebot = 'DanzBot-MD'
+global.nameown = 'Danzz'
 
 
 /*============== STAFF ==============*/
@@ -70,7 +70,7 @@ global.owner = [
   ['088270863279'],
   ['088270863279'],
   ['088270863279'],
-  ['088270863279', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
+  ['088270863279', 'Danzz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,9 +115,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
+global.wm = '                「 DanzBot-MD あ⁩ 」' //Main Watermark
+global.wm2 = 'Danzz'
+global.wm3 = '⫹⫺ DanzBot-MD'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
@@ -174,7 +174,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎\nD\na\nn\nz\nz\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
